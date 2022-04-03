@@ -1,4 +1,4 @@
-# Receive Arduino Serial Data with Bluetooth Module (HC-05)
+# Receive Arduino Serial Data with Bluetooth Module (HC-06)
 
 ## 🖍📐 Schematics
 
@@ -21,7 +21,7 @@ Disconnect the arduino port from laptop and power the arduino using external sou
 
 - Step-3
 
-Connect the Bluetooth Module(HC-05) to Laptop
+Connect the Bluetooth Module(HC-06) to Laptop
 
 Open Bluetooth Setting and search for Bluetooth Devices (I am using Windows 10)
 
@@ -35,7 +35,7 @@ You can see our Bluetooth Modoule is paired with Laptop
 
 ![bluetooth-3](./Pictures/3.JPG "third step")
 
-Next we need to find the Port that we are going to use for HC-05.
+Next we need to find the Port that we are going to use for HC-06.
 
 Go to **More Bluetooth Options**
 
